@@ -1,0 +1,34 @@
+#container>div {
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
+
+#header-top {
+    top: 0;
+    background-color: rgba(237, 242, 245, 0.897);
+    height: 3%;
+}
+
+#social-media-links>li {
+    height: 100%;
+    top: 0;
+    background-color: #fff;
+}
+
+body {
+    background-color: #fff;
+}
+
+.fa {
+    font-size: 30px;
+    padding: 5px;
+    width: 50px;
+    text-decoration: none;
+    margin: 2px 2px;
+    color: grey;
+}
+
+li {
+    display: flexbox;
+}
